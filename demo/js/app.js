@@ -35,7 +35,7 @@ particlesJS('particles-js',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://123emoji.com/wp-content/uploads/2017/08/sticker-99.png",
+          "src": "https://cdn.discordapp.com/attachments/965994012781707344/981020628561825902/cat-removebg-preview.png",
           //"src": "https://i.pinimg.com/originals/49/03/db/4903db6a9815df2520115341422ea9ae.png",
           "width": 100,
           "height": 100
