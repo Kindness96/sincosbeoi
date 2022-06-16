@@ -28,7 +28,7 @@ function AIMode()
 	{
 		var sqr = document.getElementsByClassName("square");
 		sqr.item(px + py*size).setAttribute("player","1");
-		sqr.item(px + py*size).style.backgroundImage = "url('Images/Xpng.png')";
+		sqr.item(px + py*size).style.backgroundImage = "url('https://i.pinimg.com/originals/49/03/db/4903db6a9815df2520115341422ea9ae.png')";
 		l_played.push(px+py*size);
 	}
 	catch(e) {alert(e.message)}

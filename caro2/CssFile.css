@@ -1,10 +1,11 @@
 @charset "utf-8";
 
 #bgr
-{
-	background-image:url('./Images/bgr.png');
+{	
+	background-color: #fadef8;
+	/*background-image:url('./Images/bgr.png');
 	background-repeat:space;
-	z-index:-900;
+	z-index:-900;*/
 }
 
 #divmain

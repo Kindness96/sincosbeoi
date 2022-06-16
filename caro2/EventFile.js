@@ -75,8 +75,8 @@ function Click(id)
 	
 	if (win)
 	{
-		var mess = 'Tokage win';
-		if (pwin == 0) mess = 'Neko win';
+		var mess = 'Neko win';
+		if (pwin == 0) mess = 'Tokage win';
 		alert(mess);
 		InGame = false;
 	}
@@ -356,8 +356,8 @@ function LoadProgress()
 		LoadProgress();
 		else
 		{
-			var mess = 'Tokage win';
-			if (CPlayer == 1) mess = 'Neko win';
+			var mess = 'Neko win';
+			if (CPlayer == 1) mess = 'Tokage win';
 			alert(mess);
 			InGame = false;
 		}
